@@ -1,0 +1,6 @@
+<root reference="TEMPLATE_REF">
+  <receipt_point>
+    <name></name>
+  </receipt_point>
+  <vol val="0" start="2025-01-27T00:00:00Z" end="2025-01-27T00:15:00Z" />
+</root>
