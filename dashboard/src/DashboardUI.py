@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 from tkinter import Tk, Canvas, Button, Toplevel, Label
 
 # ---------------- CONFIG ----------------
-TOTAL_MESSAGES = 750
+TOTAL_MESSAGES = 700
 
 ROOT = r'C:\Dashboard'
 SOURCE = os.path.join(ROOT, 'source')
