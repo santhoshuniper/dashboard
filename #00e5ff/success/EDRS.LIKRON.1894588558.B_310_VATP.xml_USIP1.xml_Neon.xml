@@ -1,0 +1,32 @@
+<deal loss_factor="0" last_update="2025-01-27T05:47:09" input_date="2025-01-27T05:47:09" ins_subtype="PWR Fixed-Price" ins_type="EXCH-PWR-PHYS" reference="EDRS.LIKRON.1894588558.B_310" version_num="1" tran_num="1894588558" deal_num="1894588558" scheduled="yes" buy_sell="Buy" status="New" trade_date="2025-01-27T05:47:09">
+    <ext_bagent name="ECC_IDAY - BU" id="22171" />
+    <int_bunit name="ASI" id="21039" />
+    <ext_bunit name="ECC - BU" id="20576" />
+    <int_strategy name="PPA_WIND" id="21969921" />
+    <int_lentity name="E.ON Energy Trading" id="20459" />
+    <ext_lentity name="ECC_IDAY - BU" id="22171" />
+    <int_pfolio name="MA_OUTRIGHT" id="20188" />
+    <trader name="S22786" id="" />
+    <infos>
+        <info val="L" key="system_id" />
+        <info val="S22786" key="Executing_trader" />
+        <info val="no" key="Automatic transmission" />
+        <info val="2025-01-27T05:47:09" key="Orig Trade Date Time" />
+        <info val="yes" key="Scheduled" />
+        <info val="EDRS.LIKRON.1894588558.B" key="source_trade_id" />
+        <info val="EPEX" key="Exchange" />
+        <info val="No" key="OTC Cleared" />
+        <info val="LIKRON" key="deal_source" />
+        <info val="S22786" key="XETRA_ID" />
+        <info val="DE_PPA_WIND" key="LIKRON_TEXT" />
+        <info val="19838189263" key="source_order_id" />
+        <info val="10YDE-VE-------2" key="likron_eic" />
+        <info val="DE_PPA_WIND" key="PP nomination" />
+    </infos>
+    <leg end_date="2025-01-27T07:15:00Z" price="72.3" start_date="2025-01-27T07:00:00Z" unit="MWh" time_zone="UTC" ccy="EUR">
+        <receipt_point name="HUB 50HERTZ" id="20001" />
+        <profile>
+            <vol end="2025-01-27T10:45:00Z" price="72.3" val="3.235477759867047" start="2025-01-27T10:30:00Z" />
+        </profile>
+    </leg>
+</deal>
