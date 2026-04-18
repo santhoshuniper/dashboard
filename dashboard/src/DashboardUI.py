@@ -7,7 +7,7 @@ from tkinter import Tk, Canvas, Button, Toplevel, Label
 import tkinter.font as tkfont
 
 # ---------------- CONFIG ----------------
-TOTAL_MESSAGES = 500
+TOTAL_MESSAGES = 750
 
 ROOT = r'C:\Dashboard'
 SOURCE = os.path.join(ROOT, 'source')
