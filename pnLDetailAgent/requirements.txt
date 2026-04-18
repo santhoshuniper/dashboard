@@ -1,3 +1,0 @@
-pandas
-openai
-openpyxl
